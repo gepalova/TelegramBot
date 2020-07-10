@@ -1,0 +1,33 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 434573017,
+      "message": {
+        "message_id": 31,
+        "from": {
+          "id": 141073607,
+          "is_bot": false,
+          "first_name": "Arinka",
+          "username": "Gepalova",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 141073607,
+          "first_name": "Arinka",
+          "username": "Gepalova",
+          "type": "private"
+        },
+        "date": 1594332245,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    }
+  ]
+}
